@@ -1,0 +1,50 @@
+{
+  "name": "nihilipsam",
+  "description": "Very thin wrapper around js-yaml for directly reading in YAML files.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/CliffordGrimes/nihilipsam.git",
+  "author": "AnnettaLehner",
+  "maintainers": [
+    {
+      "name": "Shinnosuke Watanabe",
+      "url": "https://github.com/shinnn"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliffordGrimes/nihilipsam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CliffordGrimes/nihilipsam.git/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/read-yaml/blob/master/LICENSE-MIT"
+  },
+  "files": [
+    "index.js",
+    "LICENSE-MIT"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "js-yaml": "^3.2.3",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "^4.3.0"
+  },
+  "keywords": [
+    "eos",
+    "nihil",
+    "file",
+    "dignissimos",
+    "rem",
+    "read",
+    "sync",
+    "yaml",
+    "yml"
+  ]
+}
